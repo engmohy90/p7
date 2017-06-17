@@ -23,7 +23,7 @@
  </tr>
  <tr>
  <td>ssh key </dt>
- <td>[Download](https://github.com/engmohy90/p7/blob/master/grader)</td>
+ <td><a href="https://github.com/engmohy90/p7/blob/master/grader" >download</a></td>
  </tr>
  </table>
  
