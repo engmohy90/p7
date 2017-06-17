@@ -21,7 +21,12 @@
  <td>URL</dt>
  <td>http://mohymenu.tk</td>
  </tr>
+ <tr>
+ <td>ssh key </dt>
+ <td>[Download](https://github.com/engmohy90/p7/blob/master/grader)</td>
+ </tr>
  </table>
+ 
  
  ## software installed 
 - apache2 
@@ -64,7 +69,7 @@ PasswordAuthentication no
 ssh grader@machineIP -p 2200 -i path-to-grader(the key you generated)
 
 ```
-- you can find and download my key at this repo
+- download [grader key](https://github.com/engmohy90/p7/blob/master/grader)
 #### setting up firewall 
 1- ```sudo ufw default deny incoming```
 2- ```sudo ufw default allow outgoing```
