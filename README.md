@@ -5,9 +5,6 @@
 - [software installed](#software-installed)
 - [step by step](step-by-step)
 
-IP address, URL, summary of software installed, summary of configurations made, and a list of third-party resources used to completed this project.
-
-
 ## overview
 
 - this project is a linux configuration to deploy web app via apache using cloud instance (cloud vm)(vps)
