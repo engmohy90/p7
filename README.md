@@ -8,6 +8,7 @@
 ## overview
 
 - this project is a linux configuration to deploy web app via apache using cloud instance (cloud vm)(vps)
+- i used in this project google cloud 
 <table>
  <tr>
  <td>IP address</dt>
